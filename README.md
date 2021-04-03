@@ -1,6 +1,6 @@
 # Modal Window using HTML, CSS & JavaScript
 
-> https://kumar-tushar.github.io/Modal-Window-JavaScript/
+> https://kumar-tushar.github.io/Modal-Window-JavaScript
 
 # Quick Start
 ``` bash
